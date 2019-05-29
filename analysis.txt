@@ -1,0 +1,12 @@
+# Headlines	Categories	Probability
+sports How the battle against measles varies around the world 0.32684546465539127
+technology Shy fish no bigger than a pinkie provide much of the food in coral reefs 0.3172341785594627
+technology BJP wants to piggyback on YSRCP to south, but Jagan may find it hard to help without special status for Andhra 0.3123282171302851
+sports FDA Approves New Treatment for Diabetic Condition That Can Lead to Blindness 0.2849002519475868
+entertainment Welspun in talks to own slum rehabilitation projects, loaned by Dewan Housing Finance Ltd 0.27149398742491093
+politics PM Narendra Modi to host Chinese President Xi for an informal summit 0.27529384305408805
+technology Brain Changes May Occur 30 Years Before Alzheimer’s Symptoms Appear 0.3549338265812956
+technology TCS recognised among top 50 companies in US for diversity 0.2871780812224917
+technology  Facebook may launch its own cryptocurrency by 2020: Report 0.6370912969730723
+entertainment Celebrating the versatile Pankaj Kapur's birthday with his memorable roles 0.5207291326619311
+sports Surprise Kiwi selection Tom Blundell on brink of ODI debut in World Cup 0.58586760451789
