@@ -1,51 +1,51 @@
 # Headlines	Categories	Probability
-Netflix is notorious for not giving a single shit about ratings. It does not report viewership numbers to investors, entertainment reporters, Hollywood, or fans—a fact that can be especially frustrating when popular shows seemingly get canceled out of the blu…. entertainment 0.38191346677800053
-Dozens of women demanded a new inquiry in sexual harassment allegations against the chief justice.. politics 0.6925586418564492
-In 2016, Rajesh Raut started driving an Uber taxi in Mumbai, hoping he could earn more than the $215 he received each month for making flatbreads at a roadside stall.. sports 0.37377992247969966
-The European Union will defend the Iran nuclear accord despite Tehran's decision to backtrack on its commitments in response to U.S. sanctions, diplomats believe, but European powers expect it to collapse without a deal to sell Iranian oil to China or India.. technology 0.4214328138459242
-The country’s demonetization hasn’t stopped people from using cash.. technology 0.3055690091729715
-Sheila Dikshit vs Manoj Tiwari: Will North East Delhi Vote for Past Glory or Deliver a Purvanchali Punch? News18 Lok Sabha elections 2019 live updates: What Sam Pitroda said is completely out of line, says Rahul Times of India ‘Pact with Congress would be sam…. sports 0.45547741221981625
-Paired with a biannual testing programme, a combination drug used to prevent HIV infection has the potential to improve average per-person survival by nearly one year and block more than 270,000 HIV transmissions in India over a period of 15 years, says a stu…. technology 0.4133535888813972
-From Ramzan staple to Bollywood film title: A short history of Rooh Afza Scroll.in Family Rift Behind Disappearing Rooh Afza, But Company Denies NDTV News As RoohAfza Shortage Hits Ramzan, Pak Counterpart Offers to Help The Quint Family Rift Behind Disappeara…. entertainment 0.4680422584812382
-ITC former chairman YC Deveshwar who stalled british american tobacco passes away Business Insider India PM, other political and business leaders pay tributes to ITC's Deveshwar Moneycontrol YC Deveshwar death: ITC chairman YC Deveshwar passes away Economic T…. sports 0.22763755709988875
-The Indian Institute of Democratic Leadership is training political hopefuls who align with the ruling BJP to be competent.. sports 0.3198415597234051
-A technology writer visits the Bay Area for the first time. technology 0.2728286278410453
-NEW DELHI (AP) — Indians voted Sunday in the next-to-last round of a six-week-long national election marked by a highly acrimonious campaign that has seen Prime Minister Narendra Modi blame opposition party chief Rahul Gandhi's family for the country's ills.. sports 0.33729485926002933
-India's antitrust watchdog has ordered an investigation into Alphabet Inc's unit Google for alleged abuse of its popular Android mobile operating system to block rivals, two sources aware of the matter told Reuters. The Competition Commission of India (CCI) l…. technology 0.6723514712933079
-Rahul Gandhi is contesting for the fourth time from the seat of Amethi in Uttar Pradesh -- a family bastion that he has not lost since his first election in 2004.  A former model and television soap opera actress, the outspoken Irani was beaten in 2014 but na…. sports 0.38092124989622383
-India's antitrust watchdog has ordered an investigation into Alphabet Inc's unit Google for allegedly abusing the dominant position of its popular Android mobile operating system to block rivals, two sources aware of the matter told Reuters. The Competition C…. technology 0.6698341988701186
-The father and son, both successful entrepreneurs, made the pilgrimage together to the US city of Omaha to bask in the wisdom of billionaire Warren Buffett, whose simple approach to investing -- and whose mistrust of Wall Street -- they share. Both Paul Singh…. entertainment 0.3661228878625195
-More than 87 million people across seven states are eligible to vote in this phase, which includes some of the country's most electorally important regions such as Uttar Pradesh, the state with the most members of parliament. Rahul Gandhi, the 48-year-old lea…. technology 0.3330089021394792
-This curry is simple, flavorful, and made to fit the life of my mom — a harried cook, but someone who valued the texture and taste of a meal made with love. READ MORE.... entertainment 0.5163549154199494
-Researchers are troubled by a flat budget, and a rise in extremism and pseudoscience.. technology 0.3106445548359928
-Se trata de las películas, series y documentales más vistas del Reino Unido. The post " Netflix da a conocer su primer Top 10 oficial de su contenido más popular " appeared first on FayerWayer.. entertainment 0.3117574630109413
-OnePlus is getting ready to announce both the OnePlus 7 and the OnePlus 7 Pro across the world on May 14th. The OnePlus 7 is expected to be an iterative upgrade to the OnePlus 6T, sporting the same chassis but upgraded specs, including UFS 3.0. We know a lot …. technology 0.8530500863062928
-A 45-minute train ride from Amsterdam, Keukenhof Gardens in the Netherlands is home to millions of flowers, including the tulips the region is known for.. sports 0.30524418569001466
-The airport experience doesn't have to be so anxiety-inducing. Many now offer gyms, yoga rooms, meditation areas, and much more.. technology 0.36934564780901247
-Wann du eine Wohnung suchen solltest und wo das Bier am billigsten ist: eine Checkliste, mit der du im Ausland nur noch daran denken musst, wie du am meisten Spaß hast.. sports 0.25793608079455277
-Reuters : Interviews with 35+ Uber drivers in India reveal growing discontent with the platform, which has gradually removed its large incentives — MUMBAI/NEW DELHI (Reuters) - In 2016, Rajesh Raut started driving an Uber taxi in Mumbai, hoping he could earn …. technology 0.33587746769043164
-The Chennai Super Kings will face the  Mumbai  Indians in the 2019 Indian Premier League final after they beat the Delhi Capitals by six wickets in Friday's playoff.      The Super Kings won the toss and put their opponents into bat.... sports 0.9614721463135965
-Keemo Paul's clutch four in the last over helped Delhi Capitals send Sunrisers Hyderabad packing by winning the eliminator by two   wickets in the 2019 Indian Premier League on Wednesday.... sports 0.8928281023013853
-Mumbai Indians finished top of the 2019 Indian Premier League table ahead of the playoffs after beating Kolkata Knight Riders by nine wickets.... sports 0.8673077243780813
-Mumbai Indians qualified for their fifth Indian Premier League final on Tuesday after they beat Chennai Super Kings by six wickets to contest for a fourth championship.... sports 0.9512652054539849
-Chennai Super Kings and Mumbai Indians will go head-to-head in an Indian Premier League final for the fourth time on Sunday.... sports 0.9535340641712791
-Aditya Kalra / Reuters : Sources: India's antitrust watchdog has preliminarily found that Google abused the dominant position of Android and has ordered a full probe in April — NEW DELHI (Reuters) - India's antitrust watchdog has ordered an investigation into…. technology 0.5350402979522906
-Educational reforms in Delhi state are not being debated across the country, but the need for change is.. politics 0.30325686385458467
-Economists say the very top percentage of Indians are benefitting in this economic climate.. sports 0.3491804108813424
-News News: NEW DELHI: Bachan Singh was three years old when Delhi became British India’s capital.. sports 0.42693651503599994
-India News: NEW DELHI: The Aam Aadmi Party candidate for East Delhi Lok Sabha constituency, Atishi Marlena, alleged on Thursday that BJP candidate Gautam Gambhir .. politics 0.34904457685303697
-Lok Sabha Elections 2019 News: NEW DELHI: Protesting against AAP's allegation that he was behind the scurrilous pamphlet against its East Delhi candidate, Atishi Marlena, BJP candid.. sports 0.36843110693647807
-Check IPL 2019 Live Score, Scorecard and Ball by ball Commentary of IPL 2019, Eliminator between Delhi Capitals and Sunrisers Hyderabad on Times of India. sports 0.8486431754361101
-As the 5th phase of polling for the 7-phase Lok Sabha elections came to an end on Monday, political parties now shift focus mainly to Delhi, Haryana, West Bengal and some constituencies of Uttar Pradesh. Stay with TOI for all the latest updates from the campa…. sports 0.38922084877690555
-The row started with AAP's Atishi alleging rival Gautam Gambhir of circulating pamphlets with obscene remarks about her in East Delhi constituency. Gambhir challenged that if AAP and Delhi CM can give the proof he will withdraw his candidature and retire from…. sports 0.36155464015045286
-In 2015, when newbie Aam Aadmi Party bagged 67 of the 70 Delhi assembly seats, halting the seemingly unstoppable BJP juggernaut, many across the country were surprised at the sheer scale of the victory. Four years on, Arvind Kejriwal's party faces a stiff tes…. sports 0.312905844134404
-Lok Sabha Elections 2019 News: As soon as the press conference was about to start, three policemen entered the AAP headquarters at ITO and told AAP functionaries to stop the event b. sports 0.3531946956783836
-The brilliance of Rishabh Pant (49 off 21) in the middle overs and Prithvi Shaw (56 off 38) at the top of the batting order put Delhi just one win away from entering the final, after they beat SRH by two wickets in the Eliminator on Wednesday.. sports 0.8358780331117256
-Ashish Pandey, clad in a blue shirt and denims - synchronised with the colour of his party, BSP - looks unflappable when asked about the sobriquets 'Pistol Pandey' and 'Pink Panther' given to him last year following Delhi's Hyatt Hotel incident as he joins th…. sports 0.44075208953566136
-A day after being slapped during a road show in Delhi, chief minister Arvind Kejriwal claimed on Sunday that the incident was an attempt to eliminate him.. sports 0.39122694991690343
-India News: NEW DELHI: Fearing liquidation proceedings as the insolvency resolution process for debt-ridden real estate giant Jaypee Infratech Ltd (JIL) could not.. technology 0.31071694350868023
-News News: NEW DELHI: BJP on Monday said the controversial clip purportedly showing sacked BSF trooper Tej Bahadur Yadav whose nomination from Varanasi Lok Sabha.. sports 0.44135660878755595
-India News: NEW DELHI: BJP president on Thursday slammed Congress' overseas chief Sam Pitroda over his "hua to hua" remark for the 1984 anti-Sikh riots.. politics 0.6125848330849367
-India Business News: NEW DELHI: India’s industrial output contracted in March — the first time in nearly two years — after being dragged down by a decline in key manufactu.. sports 0.33948847471041965
-News News: NEW DELHI: Finance minister Arun Jaitley on Sunday wondered why Congress president Rahul Gandhi gets disturbed when integrity issues of his late fathe.. politics 0.35974740392584476
-India News: NEW DELHI: Former Prime Minister Manmohan Singh's criticism of Modi government over a "lack of economic vision" drew a sharp reaction from the BJP, wh.. politics 0.483831542094723
+Nanda Devi: Bodies spotted in hunt for missing climbers. sports 0.19602822332156594
+Week in pictures: 25-31 May 2019. technology 0.2636583545581699
+India to continue to seek strong ties with U.S. despite Trump removing trade privileges. business 0.29559540082338004
+Delhi metro: Will free public transport make women safer?. politics 0.32965082072234303
+Google Maps picks up new tools to improve public transit in India. technology 0.37011786956409753
+Google Maps new features for India just made my commute a lot less painful. technology 0.670327169527056
+Mumbai doc suicide: Accused to judicial custody. politics 0.460253096374793
+Veteran actor Dinyar Contractor dies in Mumbai. entertainment 0.40502602979295943
+Wordplay wont solve issue of jobs: Sena to Centre. politics 0.22040921231324911
+Mumbai's traffic flow worst in world: Report. sports 0.37678838531407627
+Karan Oberoi case: Womans lawyer on the run. politics 0.287510424957221
+Cricketer Rakesh Pawar stabbed to death in Mumbai. sports 0.2509537003141846
+Oberoi case: Police to arrest accuser for attack. politics 0.7456905520725026
+Oberoi case: Womans lawyer says she plotted attack. politics 0.3642601225915131
+Uddhav to visit Ayodhya with Shiv Sena MPs. politics 0.28834576690600155
+JLR and BMW team up to develop electric cars. business 0.33266230667516794
+Emirates eyes more seats on Dubai-India route; hopes restart of bilateral rights talks between govts. sports 0.2115817947769592
+Mumbai Police earns praise after event for birthday of murdered mans father. entertainment 0.3821481980164155
+The sugar syrup-coated orange whorls of delight. health 0.2206242551371955
+Mumbai T20: Player says approached to underperform. sports 0.39222022924832944
+Mumbai: Bridge shut near Ghatkopar bus depot. sports 0.3004044323188198
+World Cup 2019: Eternal chokers tag is like Shakespearean tragedy, says Kagiso Rabada. sports 0.38608546110705577
+Celeb spotting: Katrina Kaif, Taapsee Pannu, Kartik Aaryan and others. entertainment 0.47619863879842683
+Food for Thought. health 0.22384307187795896
+Mumbai-Pune Deccan Queen completes 90 years in service. business 0.25684503476977866
+Newborn found abandoned in a plastic bag in Mumbai Central. sports 0.17233959172648247
+Mumbai: Man found with throat slit, business partner detained. entertainment 0.2136088739090845
+Air hostess gangraped: Mumbai Police await medical report. politics 0.2866004445446099
+Malegaon blasts: Pragya Thakur arrives in Mumbai court for hearing. politics 0.37254018534680255
+Two arrested for cheating, stealing credit card details in Mumbai. politics 0.254048686590595
+Mumbai: Amid talk of rejig, clamour for ministers resignation. sports 0.22413134872484203
+Driver of Mercedes runs over pedestrian in Mumbai. sports 0.42270511587125864
+Mumbai diamond trader held for running over pedestrian. sports 0.2400524330210858
+Taapsee Pannu, Vicky Kauhsal, Nora Fatehi and others share laughs at Russell Peters show. entertainment 0.39395492092124257
+GoAir flight makes emergency landing at Aurangabad airport. business 0.16105299014367996
+Celeb spotting: Kriti Sanon, Kartik Aaryan, Rakul Preet and others. entertainment 0.4775190021349522
+IMA seeks setting up counselling centres in all medical colleges, teaching institutes. politics 0.17484909216624098
+Jai Paul Returns With 2 New Songs: Listen. sports 0.22672328806509287
+Housing sales up 13% in Jan-Mar on stable prices: CBRE. business 0.3219369877553099
+Three Mumbai cops, who will face trial, failed to stop child marriage: Court. sports 0.2530341087494117
+Celeb spotting: Sunny Leone, Shilpa Shetty, Taapsee Pannu and others. entertainment 0.39634151213296104
+Maharashtra: NCP rules out merger with Congress, firm on alliance. business 0.2501221559402939
+SIT chargesheet into 2015 sacrilege: How Sukhbir Badal, Akshay Kumar and Dera Sacha Sauda came into play. entertainment 0.22400655216580173
+Trial runs of Vande Bharat-type trains between Mumbai to Pune, Nashik, Vadodara from next week. sports 0.21667467272566943
+Mumbai most congested among 403 global cities, Delhi ranks 4th: Study. business 0.23304122099970154
+Mumbai: Unknown caller poses as banker & asks for mobile OTP, dupes doctor of Rs 15,000. technology 0.2554271764829219
+After Lok Sabha drubbing of Congress in Maharashtra, old guard faces challenge from youth wing. politics 0.3545563718277004
+FIR against Archbishop of Mumbai, bishops: Cops record statements of complainant and witnesses. politics 0.29416335771495694
+Shah Rukh Khan and David Letterman greet fans on Eid. entertainment 0.5213474151141012
+After offering namaaz, 69-yr-old man goes missing; kin allege police laxity. politics 0.32836642406966915
