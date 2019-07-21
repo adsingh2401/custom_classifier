@@ -8,7 +8,7 @@ def compare(File1,File2):
     with open(File1,'a') as f:
         for line in list(e-d):
             f.write(line)
-category = ["science", "business", "health"]
+category = ["science", "business", "health", "sports", "entertainment", "technology"]
 for c in category:
     print(c)
     pull_data.pull_data(c)
